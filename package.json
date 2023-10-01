@@ -1,0 +1,23 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Salhi Fayza",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "joi": "^17.9.2",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^6.5.1",
+        "multer": "^1.4.5-lts.1",
+        "mysql2": "^2.3.3",
+        "path": "^0.12.7",
+        "sequelize": "^6.23.0"
+    }
+}
